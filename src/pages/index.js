@@ -68,7 +68,7 @@ export default function index() {
 				filterText={filterText}
 				type="text"
 				placeholder="find all products here"
-				className="input input-bordered input-accent w-full max-w-xs text-dark justify-content-end"
+				className="input input-bordered input-accent w-full max-w-xs text-dark float-end border-3 p-2 m-md-3 "
 			/>
 			<DataTable
 				title="Contact List"
